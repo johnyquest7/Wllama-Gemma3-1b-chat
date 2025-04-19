@@ -13,15 +13,14 @@ This project is a simple web-based chatbot interface for running local LLMs (Lar
 
 ## How to Use
 
-1. **Download the repository or files** to your computer.
-
-2. **Open `index.html` in a modern browser** (Chrome, Edge, or Firefox recommended).
+1. **Open [Wllama-Gemma3-1b-chat](https://johnyquest7.github.io/Wllama-Gemma3-1b-chat/)
+  in a modern browser** (Chrome, Edge, or Firefox recommended).
 
    > **Note:** The first time you use it, the model (~700MB) will be downloaded from Hugging Face. This may take several minutes depending on your internet speed.
 
-3. **Wait for initialization.** The status bar will show progress as the model loads.
+2. **Wait for initialization.** The status bar will show progress as the model loads.
 
-4. **Chat!** Once the model is loaded, type your message and press Enter or click Send.
+3. **Chat!** Once the model is loaded, type your message and press Enter or click Send.
 
 ## Requirements
 
